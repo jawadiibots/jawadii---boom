@@ -1,5 +1,5 @@
 python-telegram-bot==20.5
-tradingview_ta==1.5.4
+tradingview_ta>=3.3.0
 ccxt==3.0.80
 pandas==2.2.2
 numpy==1.26.4
