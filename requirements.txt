@@ -1,0 +1,7 @@
+python-telegram-bot==20.5
+tradingview_ta==1.5.4
+ccxt==3.0.80
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.1
+pillow==10.0.1
